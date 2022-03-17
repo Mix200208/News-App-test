@@ -1,9 +1,6 @@
 package com.example.newsapp.server
 
-import android.telecom.Call
-import com.example.newsapp.server.ServerService.Companion.link
-import data.Article
-import data.News
+import com.example.newsapp.data.News
 import retrofit2.http.GET
 import retrofit2.http.Query
 

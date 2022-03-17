@@ -1,4 +1,4 @@
-package data
+package com.example.newsapp.data
 
 data class News(
     val articles: List<Article>,
